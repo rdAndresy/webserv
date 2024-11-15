@@ -1,4 +1,4 @@
-# minishell
+# Webserv
 Build a non-blocking HTTP server in C++98
 
 # Usage
