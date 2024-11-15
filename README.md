@@ -1,7 +1,9 @@
 # Webserv
 Build a non-blocking HTTP server in C++98
+This server manages GET, POST, DELETE methods and basic CGI
+Feel free to test the included website
 
-# Usage
+# Usage (on linux distributions only)
 make ; ./webserv [config file.conf]
 
 # Usefull information
